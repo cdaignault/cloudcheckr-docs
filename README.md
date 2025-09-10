@@ -1,2 +1,2 @@
-# cloudcheckr-docs
+# CloudCheckr Docs
 CloudCheckr Documentation
